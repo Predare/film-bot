@@ -19,6 +19,7 @@ git clone https://github.com/Predare/film-bot.git
 
 ### NPM modules init:
 ```bash
+# go to film-bot/app
 cd path/to/film-bot/app
 npm install
 ```
@@ -34,7 +35,8 @@ BOT_TOKEN=<bot token>" >> .env
 
 ### Docker init:
 ```bash
-cd .. (back in film-bot dir)
+# back to film-bot root dir 
+cd .. 
 # Make and fill docker.env file (example docker.env.example)
 echo -e "# docker.env
 MONGO_INITDB_ROOT_USERNAME: <username>
