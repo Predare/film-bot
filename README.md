@@ -43,9 +43,9 @@ MONGO_INITDB_ROOT_PASSWORD: <password>
 MONGO_URL: mongodb://<username>:<password>@mongo:27017/
 MONGO_USERNAME: <username>
 MONGO_PASSWORD: <password>" >> docker.env
-# Run docker
-docker compose up
 ```
+### Docker up:
+docker compose up
 
 ### Docker down:
 ```bash
