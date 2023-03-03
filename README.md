@@ -4,11 +4,11 @@ Telegram bot for memorizing movies and series of interest to the user.
 ## Stack:
 Node.js
 <div>
-<a href="https://github.com/telegraf/telegraf">Telegraf</a>
-<a href="https://docs.docker.com/get-started/">Docker & docker compose</a>
-<a href="https://www.mongodb.com/docs/drivers/node/current/">MongoDB</a>
-<a href="https://github.com/axios/axios">Axios</a> - http client
-<a href="https://github.com/cheeriojs/cheerio">Cheerio</a> - jQuery implementation for node.js 
+<a href="https://github.com/telegraf/telegraf" alt="Telegraf"/>
+<a href="https://docs.docker.com/get-started/" alt="Docker & docker compose"/>
+<a href="https://www.mongodb.com/docs/drivers/node/current/" alt="MongoDB"/>
+<a href="https://github.com/axios/axios" alt="Axios"/> - http client
+<a href="https://github.com/cheeriojs/cheerio" alt="Cheerio"/> - jQuery implementation for node.js 
 </div>
 
 ## Get started:
