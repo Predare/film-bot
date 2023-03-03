@@ -45,7 +45,9 @@ MONGO_USERNAME: <username>
 MONGO_PASSWORD: <password>" >> docker.env
 ```
 ### Docker up:
+```bash
 docker compose up
+```
 
 ### Docker down:
 ```bash
